@@ -26,6 +26,13 @@ Each level is on a separate branch to this.
     * three tries to correctly guess the value
 * Level 7 - Encapsulate all the logic into a single python function
 * Level 8 - refactor and tidy up
+* Level 9 - Create your own program that when runs:
+    * Asks for the users first name - and this program only works for people with names between 2 and 20 characters long.
+    * Ask for their age in years, they must be at least 5-99 years old. Different ages use different programs.
+    * Ask for their favorite food out of: apples, bananas or grapes.
+    For each step think about validation, what letters would be allowed.
+    After everything is submitted, it should print out a summary of the users selections.
+
 
 
 ## Learning

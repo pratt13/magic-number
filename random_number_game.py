@@ -24,5 +24,5 @@ def magic_number():
         except ValueError:
             print(f"Input value must be {ALLOWED_VALUES}")
         
-
-magic_number()
+if __name__ == "__main__":
+    magic_number()
